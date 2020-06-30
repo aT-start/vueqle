@@ -1,0 +1,9 @@
+@import "reset";
+@import "iconfont";
+@import "mixins";
+*{
+	border-sizing:border-box;
+}
+.wrapper .swiper-pagination-bullet-active{
+		background:#fff !important;
+}
