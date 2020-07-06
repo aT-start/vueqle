@@ -17,7 +17,7 @@
           pagination: {
             el: '.swiper-pagination',           
           },
-          loop:true
+		  loop:true
         }       
       };
     },
